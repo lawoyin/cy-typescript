@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.amazon.co.uk/",
+  "viewportWidth": 1500,
+  "viewportHeight": 800,
+  "testFiles": "**/*.{feature, features}"
+}
